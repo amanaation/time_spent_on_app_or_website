@@ -1,7 +1,7 @@
 _____________
 
 
-#          <p>                       <b> <center>         Linear Regression Project  </center> </b>   </p> 
+#          <p>                       <b> <center>         Logistic Regression Project  </center> </b>   </p> 
 _____________
 
 
